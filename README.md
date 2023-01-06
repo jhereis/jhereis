@@ -25,6 +25,7 @@
  </div>
  
  <div align="center">
+  <h2>Main Tools and Technologies</h2>
  
 
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
