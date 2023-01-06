@@ -9,6 +9,6 @@
 @jenniereis
 ```
 
-`c#` `python` `Cybersecurity` `Linux` `Web Developer` `Workbench SQL` 
+`c#` `python` `Cybersecurity` `Linux` `Web Developer` `Workbench SQL`  
 
- [social media - linktree](https://linktr.ee/jenniereis)
+ [Professional Medias - Linktree](https://linktr.ee/jenniereis)
