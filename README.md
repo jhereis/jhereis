@@ -17,8 +17,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/-gwnhwyfarr%232175-purple?style=for-the-badge&logo=Discord&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
 <a href="https://github.com/jhereis" target="_blank"><img src="https://img.shields.io/badge/-%40jhenreis-black?style=for-the-badge&logo=Github&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
 <a href="https://linktr.ee/jenniereis" target="_blank"><img src="https://img.shields.io/badge/-jenniereis-success?style=for-the-badge&logo=Linktree&logoColor=white" style="border-radius: 10px" target="_blank"></a> <br>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux%20User-yellow?style=for-the-badge&logo=Linux&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/-%40gwnhwyfarr-C71585?style=for-the-badge&logo=Instagram&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Linux%20User-yellow?style=for-the-badge&logo=Linux&logoColor=white" style="border-radius: 10px" target="_blank"></a>
 <a href="https://img.shields.io/badge/-mail-critical" target="_blank"> <img src="https://img.shields.io/badge/-mail-critical?style=for-the-badge&logo=Gmail&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
 <a href="#" target="_blank"> <img src="https://img.shields.io/badge/-gwnhwyfarr-00008B?style=for-the-badge&logo=Steam&logoColor=white" style="border-radius: 10px" target="_blank"></a> 
 
